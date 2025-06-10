@@ -1,14 +1,40 @@
-#About me
+# About Me
 
-- 🔭 I’m currently working on **enhancing my skills in cybersecurity and network security.**
-- 🌱 I’m currently learning **security principles, incident response, business continuity and disaster recovery, access control, network security and security operations.**
-- 👯 I’m looking to collaborate on **open-source cybersecurity projects.**
-- 🤔 I’m looking for help  exploring the latest trends in **cyber threat intelligence.**
-- 💬 Ask me about **network security and vulnerability assessments.**
-- 📫 How to reach me: [gmail](betsywabuke@gmail.com)
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: When I'm not diving into the world of cybersecurity, you can find me hiking or volunteering at local community centre.
-- *Feel free to reach out if you'd like to collaborate or chat about cybersecurity!*
-  
-  
+🔭 Currently working on enhancing my skills in **cybersecurity** and **network security**.
+
+🌱 Actively learning:
+- Security principles
+- Incident response
+- Business continuity & disaster recovery
+- Access control
+- Network security
+- Security operations
+
+👯 Open to collaboration on open-source cybersecurity projects.
+
+🤔 Interested in exploring the latest trends in **cyber threat intelligence** — open to guidance and insights.
+
+💬 Ask me about:
+- Network security
+- Vulnerability assessments
+
+📫 How to reach me: [betsywabuke@gmail.com](mailto:betsywabuke@gmail.com)
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: When I’m not diving into cybersecurity, I enjoy hiking and volunteering at my local community centre.
+
+---
+
+## Skills
+
+- **Cybersecurity:** Network security, vulnerability assessments, penetration testing basics  
+- **Tools & Technologies:** Kali Linux, Wireshark, Nmap, Metasploit, Burp Suite  
+- **Programming & Scripting:** Python, Bash  
+- **Other:** Incident response, access control, security operations, threat intelligence
+
+---
+
+Feel free to reach out if you'd like to collaborate or chat about cybersecurity!
+
 
