@@ -20,11 +20,18 @@
 ![Cybersecurity Bootcamp](https://img.shields.io/badge/Cybersecurity_Bootcamp-H4K--IT-brightgreen?style=for-the-badge&logo=hackthebox)
 
 ## ⚡ Skills & Tools
-- **Security & Pentesting:** Kali Linux, Metasploitable, Nmap, Nessus, Burp Suite, OWASP ZAP, SQLi, XSS, LFI, THC Hydra, Enum4linux    
-- **Networking & IT Support:** Active Directory, Network Configuration, Traffic Analysis, System Troubleshooting   
-- **Monitoring & Analysis:** Wireshark, Splunk, Log Analysis
-- **Scripting & Automation:** Bash, Python  
-- **Other Tools:** Git, GitHub, Linux  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Blue?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Red?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Orange?style=for-the-badge&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-#CC0000?style=for-the-badge&logo=nessus&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-#E8751B?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-#6AA84F?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-#0099FF?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-Black?style=for-the-badge&logo=splunk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-#4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-#F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-#FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -52,9 +59,9 @@
 ---
 
 ## 📈 GitHub Stats
-![Betsy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=betsywabuke&show_icons=true&theme=dark)
+![Betsy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=betsy-wabuke&show_icons=true&theme=dark)
 
-![Betsy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=betsywabuke&theme=dark)
+![Betsy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=betsy-wabuke&theme=dark)
 
 ---
 ⭐ *“Security is not a product, but a process.” – Bruce Schneier*
