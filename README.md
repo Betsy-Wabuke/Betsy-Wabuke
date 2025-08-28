@@ -17,7 +17,7 @@
 ## 🏅 Certifications and Bootcamps
 ![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-Cisco-blue?style=for-the-badge&logo=cisco)  
 ![Cyber Threat Management](https://img.shields.io/badge/Cyber_Threat_Management-Cisco-red?style=for-the-badge&logo=cisco)  
-![H4K-IT Cybersecurity Bootcamp](https://www.h4k-it.com/wp-content/uploads/2023/02/H4K-IT-Logo-2023.png)
+![Cybersecurity Bootcamp](https://img.shields.io/badge/Cybersecurity_Bootcamp-H4K--IT-brightgreen?style=for-the-badge)
 
 ## ⚡ Skills & Tools
 🖥️ Kali Linux 🕹️ Metasploitable 🔍 Nmap 🛡️ Nessus 🗂️ Burp Suite 🧪 OWASP ZAP 💥 SQLi ❌ XSS 🔓 LFI ⚡ THC Hydra 📝 Enum4linux  
