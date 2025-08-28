@@ -6,7 +6,7 @@
 ---
 
 ## 🛡️ About Me
-- 🎓 **BSc in Computer Science (Network & Security)** – Umma University, 2022
+- 🎓 **BSc in Computer Science (Network & Security)** 
 - 🎓 Background in **ICT** with experience as an **ICT Intern at Public Service Commission**  
 - 🔐 Completed a **Cybersecurity Bootcamp by H4K-IT** covering GRC, SOC, Cloud Security, Web Pentesting & more  
 - 🎯 Completed **Cyber Threat Management** & **Ethical Hacker** courses – Cisco Networking Academy, 2025  offered by Cyber Shujaa 
@@ -17,7 +17,7 @@
 ## 🏅 Certifications and Bootcamps
 ![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-Cisco-blue?style=for-the-badge&logo=cisco)  
 ![Cyber Threat Management](https://img.shields.io/badge/Cyber_Threat_Management-Cisco-red?style=for-the-badge&logo=cisco)  
-![Cybersecurity Bootcamp](https://img.shields.io/badge/Cybersecurity_Bootcamp-H4K--IT-brightgreen?style=for-the-badge&logo=hackthebox)
+![H4K-IT Cybersecurity Bootcamp](https://www.h4k-it.com/wp-content/uploads/2023/02/H4K-IT-Logo-2023.png)
 
 ## ⚡ Skills & Tools
 🖥️ Kali Linux 🕹️ Metasploitable 🔍 Nmap 🛡️ Nessus 🗂️ Burp Suite 🧪 OWASP ZAP 💥 SQLi ❌ XSS 🔓 LFI ⚡ THC Hydra 📝 Enum4linux  
@@ -52,8 +52,6 @@
 
 ## 📈 GitHub Stats
 ![Betsy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=betsy-wabuke&show_icons=true&theme=dark)
-
-![Betsy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=betsy-wabuke&theme=dark)
 
 ---
 ⭐ *“Security is not a product, but a process.” – Bruce Schneier*
