@@ -53,6 +53,6 @@
 ## 📈 GitHub Stats
 ![Betsy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=betsy-wabuke&show_icons=true&theme=dark)
 
-![Betsy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=betsy-wabuke&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=betsy-wabuke)](https://git.io/streak-stats)
 ---
 ⭐ *“Security is not a product, but a process.” – Bruce Schneier*
