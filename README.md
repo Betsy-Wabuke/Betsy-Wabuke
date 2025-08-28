@@ -20,15 +20,10 @@
 ![Cybersecurity Bootcamp](https://img.shields.io/badge/Cybersecurity_Bootcamp-H4K--IT-brightgreen?style=for-the-badge&logo=hackthebox)
 
 ## ⚡ Skills & Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Blue?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-Red?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Orange?style=for-the-badge&logo=nmap&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-Red?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-#E8751B?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-Blue?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-#4EAA25?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-#3776AB?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-Black?style=for-the-badge&logo=splunk&logoColor=white)
+🖥️ Kali Linux 🕹️ Metasploitable 🔍 Nmap 🛡️ Nessus 🗂️ Burp Suite 🧪 OWASP ZAP 💥 SQLi ❌ XSS 🔓 LFI ⚡ THC Hydra 📝 Enum4linux  
+🌐 Active Directory 🔧 Network Configuration 📈 Traffic Analysis 🛠️ System Troubleshooting  
+📊 Wireshark 📑 Splunk 🖥️ Log Analysis  
+🐚 Bash 🐍 Python  
 
 ---
 
