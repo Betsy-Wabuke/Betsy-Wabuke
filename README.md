@@ -23,15 +23,12 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-Blue?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-Red?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-Orange?style=for-the-badge&logo=nmap&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-#CC0000?style=for-the-badge&logo=nessus&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-#E8751B?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-#6AA84F?style=for-the-badge&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-#0099FF?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-Red?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-#E8751B?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Blue?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-#4EAA25?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-#3776AB?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/Splunk-Black?style=for-the-badge&logo=splunk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-#4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-#F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-#FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
